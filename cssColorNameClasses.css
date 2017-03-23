@@ -1,0 +1,895 @@
+/* CSS color name background and text classes */
+
+/* Background classes */
+
+.AliceBlueBg{
+	background-color: AliceBlue;
+}
+.AntiqueWhiteBg{
+	background-color: AntiqueWhite;
+}
+.AquaBg{
+	background-color: Aqua;
+}
+.AquamarineBg{
+	background-color: Aquamarine;
+}
+.AzureBg{
+	background-color: Azure;
+}
+.BeigeBg{
+	background-color: Beige;
+}
+.BisqueBg{
+	background-color: Bisque;
+}
+.BlackBg{
+	background-color: Black;
+}
+.BlanchedAlmondBg{
+	background-color: BlanchedAlmond;
+}
+.BlueBg{
+	background-color: Blue;
+}
+.BlueVioletBg{
+	background-color: BlueViolet;
+}
+.BrownBg{
+	background-color: Brown;
+}
+.BurlyWoodBg{
+	background-color: BurlyWood;
+}
+.CadetBlueBg{
+	background-color: CadetBlue;
+}
+.ChartreuseBg{
+	background-color: Chartreuse;
+}
+.ChocolateBg{
+	background-color: Chocolate;
+}
+.CoralBg{
+	background-color: Coral;
+}
+.CornflowerBlueBg{
+	background-color: CornflowerBlue;
+}
+.CornsilkBg{
+	background-color: Cornsilk;
+}
+.CrimsonBg{
+	background-color: Crimson;
+}
+.CyanBg{
+	background-color: Cyan;
+}
+.DarkBlueBg{
+	background-color: DarkBlue;
+}
+.DarkCyanBg{
+	background-color: DarkCyan;
+}
+.DarkGoldenRodBg{
+	background-color: DarkGoldenRod;
+}
+.DarkGrayBg{
+	background-color: DarkGray;
+}
+.DarkGreyBg{
+	background-color: DarkGrey;
+}
+.DarkGreenBg{
+	background-color: DarkGreen;
+}
+.DarkKhakiBg{
+	background-color: DarkKhaki;
+}
+.DarkMagentaBg{
+	background-color: DarkMagenta;
+}
+.DarkOliveGreenBg{
+	background-color: DarkOliveGreen;
+}
+.DarkOrangeBg{
+	background-color: DarkOrange;
+}
+.DarkOrchidBg{
+	background-color: DarkOrchid;
+}
+.DarkRedBg{
+	background-color: DarkRed;
+}
+.DarkSalmonBg{
+	background-color: DarkSalmon;
+}
+.DarkSeaGreenBg{
+	background-color: DarkSeaGreen;
+}
+.DarkSlateBlueBg{
+	background-color: DarkSlateBlue;
+}
+.DarkSlateGrayBg{
+	background-color: DarkSlateGray;
+}
+.DarkSlateGreyBg{
+	background-color: DarkSlateGrey;
+}
+.DarkTurquoiseBg{
+	background-color: DarkTurquoise;
+}
+.DarkVioletBg{
+	background-color: DarkViolet;
+}
+.DeepPinkBg{
+	background-color: DeepPink;
+}
+.DeepSkyBlueBg{
+	background-color: DeepSkyBlue;
+}
+.DimGrayBg{
+	background-color: DimGray;
+}
+.DimGreyBg{
+	background-color: DimGrey;
+}
+.DodgerBlueBg{
+	background-color: DodgerBlue;
+}
+.FireBrickBg{
+	background-color: FireBrick;
+}
+.FloralWhiteBg{
+	background-color: FloralWhite;
+}
+.ForestGreenBg{
+	background-color: ForestGreen;
+}
+.FuchsiaBg{
+	background-color: Fuchsia;
+}
+.GainsboroBg{
+	background-color: Gainsboro;
+}
+.GhostWhiteBg{
+	background-color: GhostWhite;
+}
+.GoldBg{
+	background-color: Gold;
+}
+.GoldenRodBg{
+	background-color: GoldenRod;
+}
+.GrayBg{
+	background-color: Gray;
+}
+.GreyBg{
+	background-color: Grey;
+}
+.GreenBg{
+	background-color: Green;
+}
+.GreenYellowBg{
+	background-color: GreenYellow;
+}
+.HoneyDewBg{
+	background-color: HoneyDew;
+}
+.HotPinkBg{
+	background-color: HotPink;
+}
+.IndianRedBg{
+	background-color: IndianRed;
+}
+.IndigoBg{
+	background-color: Indigo;
+}
+.IvoryBg{
+	background-color: Ivory;
+}
+.KhakiBg{
+	background-color: Khaki;
+}
+.LavenderBg{
+	background-color: Lavender;
+}
+.LavenderBlushBg{
+	background-color: LavenderBlush;
+}
+.LawnGreenBg{
+	background-color: LawnGreen;
+}
+.LemonChiffonBg{
+	background-color: LemonChiffon;
+}
+.LightBlueBg{
+	background-color: LightBlue;
+}
+.LightCoralBg{
+	background-color: LightCoral;
+}
+.LightCyanBg{
+	background-color: LightCyan;
+}
+.LightGoldenRodYellowBg{
+	background-color: LightGoldenRodYellow;
+}
+.LightGrayBg{
+	background-color: LightGray;
+}
+.LightGreyBg{
+	background-color: LightGrey;
+}
+.LightGreenBg{
+	background-color: LightGreen;
+}
+.LightPinkBg{
+	background-color: LightPink;
+}
+.LightSalmonBg{
+	background-color: LightSalmon;
+}
+.LightSeaGreenBg{
+	background-color: LightSeaGreen;
+}
+.LightSkyBlueBg{
+	background-color: LightSkyBlue;
+}
+.LightSlateGrayBg{
+	background-color: LightSlateGray;
+}
+.LightSlateGreyBg{
+	background-color: LightSlateGrey;
+}
+.LightSteelBlueBg{
+	background-color: LightSteelBlue;
+}
+.LightYellowBg{
+	background-color: LightYellow;
+}
+.LimeBg{
+	background-color: Lime;
+}
+.LimeGreenBg{
+	background-color: LimeGreen;
+}
+.LinenBg{
+	background-color: Linen;
+}
+.MagentaBg{
+	background-color: Magenta;
+}
+.MaroonBg{
+	background-color: Maroon;
+}
+.MediumAquaMarineBg{
+	background-color: MediumAquaMarine;
+}
+.MediumBlueBg{
+	background-color: MediumBlue;
+}
+.MediumOrchidBg{
+	background-color: MediumOrchid;
+}
+.MediumPurpleBg{
+	background-color: MediumPurple;
+}
+.MediumSeaGreenBg{
+	background-color: MediumSeaGreen;
+}
+.MediumSlateBlueBg{
+	background-color: MediumSlateBlue;
+}
+.MediumSpringGreenBg{
+	background-color: MediumSpringGreen;
+}
+.MediumTurquoiseBg{
+	background-color: MediumTurquoise;
+}
+.MediumVioletRedBg{
+	background-color: MediumVioletRed;
+}
+.MidnightBlueBg{
+	background-color: MidnightBlue;
+}
+.MintCreamBg{
+	background-color: MintCream;
+}
+.MistyRoseBg{
+	background-color: MistyRose;
+}
+.MoccasinBg{
+	background-color: Moccasin;
+}
+.NavajoWhiteBg{
+	background-color: NavajoWhite;
+}
+.NavyBg{
+	background-color: Navy;
+}
+.OldLaceBg{
+	background-color: OldLace;
+}
+.OliveBg{
+	background-color: Olive;
+}
+.OliveDrabBg{
+	background-color: OliveDrab;
+}
+.OrangeBg{
+	background-color: Orange;
+}
+.OrangeRedBg{
+	background-color: OrangeRed;
+}
+.OrchidBg{
+	background-color: Orchid;
+}
+.PaleGoldenRodBg{
+	background-color: PaleGoldenRod;
+}
+.PaleGreenBg{
+	background-color: PaleGreen;
+}
+.PaleTurquoiseBg{
+	background-color: PaleTurquoise;
+}
+.PaleVioletRedBg{
+	background-color: PaleVioletRed;
+}
+.PapayaWhipBg{
+	background-color: PapayaWhip;
+}
+.PeachPuffBg{
+	background-color: PeachPuff;
+}
+.PeruBg{
+	background-color: Peru;
+}
+.PinkBg{
+	background-color: Pink;
+}
+.PlumBg{
+	background-color: Plum;
+}
+.PowderBlueBg{
+	background-color: PowderBlue;
+}
+.PurpleBg{
+	background-color: Purple;
+}
+.RebeccaPurpleBg{
+	background-color: RebeccaPurple;
+}
+.RedBg{
+	background-color: Red;
+}
+.RosyBrownBg{
+	background-color: RosyBrown;
+}
+.RoyalBlueBg{
+	background-color: RoyalBlue;
+}
+.SaddleBrownBg{
+	background-color: SaddleBrown;
+}
+.SalmonBg{
+	background-color: Salmon;
+}
+.SandyBrownBg{
+	background-color: SandyBrown;
+}
+.SeaGreenBg{
+	background-color: SeaGreen;
+}
+.SeaShellBg{
+	background-color: SeaShell;
+}
+.SiennaBg{
+	background-color: Sienna;
+}
+.SilverBg{
+	background-color: Silver;
+}
+.SkyBlueBg{
+	background-color: SkyBlue;
+}
+.SlateBlueBg{
+	background-color: SlateBlue;
+}
+.SlateGrayBg{
+	background-color: SlateGray;
+}
+.SlateGreyBg{
+	background-color: SlateGrey;
+}
+.SnowBg{
+	background-color: Snow;
+}
+.SpringGreenBg{
+	background-color: SpringGreen;
+}
+.SteelBlueBg{
+	background-color: SteelBlue;
+}
+.TanBg{
+	background-color: Tan;
+}
+.TealBg{
+	background-color: Teal;
+}
+.ThistleBg{
+	background-color: Thistle;
+}
+.TomatoBg{
+	background-color: Tomato;
+}
+.TurquoiseBg{
+	background-color: Turquoise;
+}
+.VioletBg{
+	background-color: Violet;
+}
+.WheatBg{
+	background-color: Wheat;
+}
+.WhiteBg{
+	background-color: White;
+}
+.WhiteSmokeBg{
+	background-color: WhiteSmoke;
+}
+.YellowBg{
+	background-color: Yellow;
+}
+.YellowGreenBg{
+	background-color: YellowGreen;
+}
+
+/* Text classes */
+
+.AliceBlueTxt{
+	color: AliceBlue;
+}
+.AntiqueWhiteTxt{
+	color: AntiqueWhite;
+}
+.AquaTxt{
+	color: Aqua;
+}
+.AquamarineTxt{
+	color: Aquamarine;
+}
+.AzureTxt{
+	color: Azure;
+}
+.BeigeTxt{
+	color: Beige;
+}
+.BisqueTxt{
+	color: Bisque;
+}
+.BlackTxt{
+	color: Black;
+}
+.BlanchedAlmondTxt{
+	color: BlanchedAlmond;
+}
+.BlueTxt{
+	color: Blue;
+}
+.BlueVioletTxt{
+	color: BlueViolet;
+}
+.BrownTxt{
+	color: Brown;
+}
+.BurlyWoodTxt{
+	color: BurlyWood;
+}
+.CadetBlueTxt{
+	color: CadetBlue;
+}
+.ChartreuseTxt{
+	color: Chartreuse;
+}
+.ChocolateTxt{
+	color: Chocolate;
+}
+.CoralTxt{
+	color: Coral;
+}
+.CornflowerBlueTxt{
+	color: CornflowerBlue;
+}
+.CornsilkTxt{
+	color: Cornsilk;
+}
+.CrimsonTxt{
+	color: Crimson;
+}
+.CyanTxt{
+	color: Cyan;
+}
+.DarkBlueTxt{
+	color: DarkBlue;
+}
+.DarkCyanTxt{
+	color: DarkCyan;
+}
+.DarkGoldenRodTxt{
+	color: DarkGoldenRod;
+}
+.DarkGrayTxt{
+	color: DarkGray;
+}
+.DarkGreyTxt{
+	color: DarkGrey;
+}
+.DarkGreenTxt{
+	color: DarkGreen;
+}
+.DarkKhakiTxt{
+	color: DarkKhaki;
+}
+.DarkMagentaTxt{
+	color: DarkMagenta;
+}
+.DarkOliveGreenTxt{
+	color: DarkOliveGreen;
+}
+.DarkOrangeTxt{
+	color: DarkOrange;
+}
+.DarkOrchidTxt{
+	color: DarkOrchid;
+}
+.DarkRedTxt{
+	color: DarkRed;
+}
+.DarkSalmonTxt{
+	color: DarkSalmon;
+}
+.DarkSeaGreenTxt{
+	color: DarkSeaGreen;
+}
+.DarkSlateBlueTxt{
+	color: DarkSlateBlue;
+}
+.DarkSlateGrayTxt{
+	color: DarkSlateGray;
+}
+.DarkSlateGreyTxt{
+	color: DarkSlateGrey;
+}
+.DarkTurquoiseTxt{
+	color: DarkTurquoise;
+}
+.DarkVioletTxt{
+	color: DarkViolet;
+}
+.DeepPinkTxt{
+	color: DeepPink;
+}
+.DeepSkyBlueTxt{
+	color: DeepSkyBlue;
+}
+.DimGrayTxt{
+	color: DimGray;
+}
+.DimGreyTxt{
+	color: DimGrey;
+}
+.DodgerBlueTxt{
+	color: DodgerBlue;
+}
+.FireBrickTxt{
+	color: FireBrick;
+}
+.FloralWhiteTxt{
+	color: FloralWhite;
+}
+.ForestGreenTxt{
+	color: ForestGreen;
+}
+.FuchsiaTxt{
+	color: Fuchsia;
+}
+.GainsboroTxt{
+	color: Gainsboro;
+}
+.GhostWhiteTxt{
+	color: GhostWhite;
+}
+.GoldTxt{
+	color: Gold;
+}
+.GoldenRodTxt{
+	color: GoldenRod;
+}
+.GrayTxt{
+	color: Gray;
+}
+.GreyTxt{
+	color: Grey;
+}
+.GreenTxt{
+	color: Green;
+}
+.GreenYellowTxt{
+	color: GreenYellow;
+}
+.HoneyDewTxt{
+	color: HoneyDew;
+}
+.HotPinkTxt{
+	color: HotPink;
+}
+.IndianRedTxt{
+	color: IndianRed;
+}
+.IndigoTxt{
+	color: Indigo;
+}
+.IvoryTxt{
+	color: Ivory;
+}
+.KhakiTxt{
+	color: Khaki;
+}
+.LavenderTxt{
+	color: Lavender;
+}
+.LavenderBlushTxt{
+	color: LavenderBlush;
+}
+.LawnGreenTxt{
+	color: LawnGreen;
+}
+.LemonChiffonTxt{
+	color: LemonChiffon;
+}
+.LightBlueTxt{
+	color: LightBlue;
+}
+.LightCoralTxt{
+	color: LightCoral;
+}
+.LightCyanTxt{
+	color: LightCyan;
+}
+.LightGoldenRodYellowTxt{
+	color: LightGoldenRodYellow;
+}
+.LightGrayTxt{
+	color: LightGray;
+}
+.LightGreyTxt{
+	color: LightGrey;
+}
+.LightGreenTxt{
+	color: LightGreen;
+}
+.LightPinkTxt{
+	color: LightPink;
+}
+.LightSalmonTxt{
+	color: LightSalmon;
+}
+.LightSeaGreenTxt{
+	color: LightSeaGreen;
+}
+.LightSkyBlueTxt{
+	color: LightSkyBlue;
+}
+.LightSlateGrayTxt{
+	color: LightSlateGray;
+}
+.LightSlateGreyTxt{
+	color: LightSlateGrey;
+}
+.LightSteelBlueTxt{
+	color: LightSteelBlue;
+}
+.LightYellowTxt{
+	color: LightYellow;
+}
+.LimeTxt{
+	color: Lime;
+}
+.LimeGreenTxt{
+	color: LimeGreen;
+}
+.LinenTxt{
+	color: Linen;
+}
+.MagentaTxt{
+	color: Magenta;
+}
+.MaroonTxt{
+	color: Maroon;
+}
+.MediumAquaMarineTxt{
+	color: MediumAquaMarine;
+}
+.MediumBlueTxt{
+	color: MediumBlue;
+}
+.MediumOrchidTxt{
+	color: MediumOrchid;
+}
+.MediumPurpleTxt{
+	color: MediumPurple;
+}
+.MediumSeaGreenTxt{
+	color: MediumSeaGreen;
+}
+.MediumSlateBlueTxt{
+	color: MediumSlateBlue;
+}
+.MediumSpringGreenTxt{
+	color: MediumSpringGreen;
+}
+.MediumTurquoiseTxt{
+	color: MediumTurquoise;
+}
+.MediumVioletRedTxt{
+	color: MediumVioletRed;
+}
+.MidnightBlueTxt{
+	color: MidnightBlue;
+}
+.MintCreamTxt{
+	color: MintCream;
+}
+.MistyRoseTxt{
+	color: MistyRose;
+}
+.MoccasinTxt{
+	color: Moccasin;
+}
+.NavajoWhiteTxt{
+	color: NavajoWhite;
+}
+.NavyTxt{
+	color: Navy;
+}
+.OldLaceTxt{
+	color: OldLace;
+}
+.OliveTxt{
+	color: Olive;
+}
+.OliveDrabTxt{
+	color: OliveDrab;
+}
+.OrangeTxt{
+	color: Orange;
+}
+.OrangeRedTxt{
+	color: OrangeRed;
+}
+.OrchidTxt{
+	color: Orchid;
+}
+.PaleGoldenRodTxt{
+	color: PaleGoldenRod;
+}
+.PaleGreenTxt{
+	color: PaleGreen;
+}
+.PaleTurquoiseTxt{
+	color: PaleTurquoise;
+}
+.PaleVioletRedTxt{
+	color: PaleVioletRed;
+}
+.PapayaWhipTxt{
+	color: PapayaWhip;
+}
+.PeachPuffTxt{
+	color: PeachPuff;
+}
+.PeruTxt{
+	color: Peru;
+}
+.PinkTxt{
+	color: Pink;
+}
+.PlumTxt{
+	color: Plum;
+}
+.PowderBlueTxt{
+	color: PowderBlue;
+}
+.PurpleTxt{
+	color: Purple;
+}
+.RebeccaPurpleTxt{
+	color: RebeccaPurple;
+}
+.RedTxt{
+	color: Red;
+}
+.RosyBrownTxt{
+	color: RosyBrown;
+}
+.RoyalBlueTxt{
+	color: RoyalBlue;
+}
+.SaddleBrownTxt{
+	color: SaddleBrown;
+}
+.SalmonTxt{
+	color: Salmon;
+}
+.SandyBrownTxt{
+	color: SandyBrown;
+}
+.SeaGreenTxt{
+	color: SeaGreen;
+}
+.SeaShellTxt{
+	color: SeaShell;
+}
+.SiennaTxt{
+	color: Sienna;
+}
+.SilverTxt{
+	color: Silver;
+}
+.SkyBlueTxt{
+	color: SkyBlue;
+}
+.SlateBlueTxt{
+	color: SlateBlue;
+}
+.SlateGrayTxt{
+	color: SlateGray;
+}
+.SlateGreyTxt{
+	color: SlateGrey;
+}
+.SnowTxt{
+	color: Snow;
+}
+.SpringGreenTxt{
+	color: SpringGreen;
+}
+.SteelBlueTxt{
+	color: SteelBlue;
+}
+.TanTxt{
+	color: Tan;
+}
+.TealTxt{
+	color: Teal;
+}
+.ThistleTxt{
+	color: Thistle;
+}
+.TomatoTxt{
+	color: Tomato;
+}
+.TurquoiseTxt{
+	color: Turquoise;
+}
+.VioletTxt{
+	color: Violet;
+}
+.WheatTxt{
+	color: Wheat;
+}
+.WhiteTxt{
+	color: White;
+}
+.WhiteSmokeTxt{
+	color: WhiteSmoke;
+}
+.YellowTxt{
+	color: Yellow;
+}
+.YellowGreenTxt{
+	color: YellowGreen;
+}
