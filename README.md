@@ -1,5 +1,5 @@
 # css-color-name-classes
-CSS color name background and text classes
+CSS background and text color classes by color name
 
 ## Example
 
