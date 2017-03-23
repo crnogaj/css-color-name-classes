@@ -1,5 +1,7 @@
 # css-color-name-classes
-CSS background and text color classes by color name
+CSS background and text color classes by color name.
+
+140 color names included that are supported by all modern browsers.
 
 ## Example
 
